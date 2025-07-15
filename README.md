@@ -9,9 +9,9 @@ In **RPL (Routing Protocol for Low-Power and Lossy Networks)**, a Rank Attack is
 ## Author
 
 **Haiqa Javed**
-Student ID: i211578
-Course: CS4111 - Applied Machine Learning for Cyber Security
-Submission Date: May 3, 2025
+* Student ID: i211578
+* Course: CS4111 - Applied Machine Learning for Cyber Security
+* Submission Date: May 3, 2025
 
 ## Dataset
 
